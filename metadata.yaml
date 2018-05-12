@@ -1,10 +1,16 @@
 _repo: The-Old-World-in-the-New-The-Significance-of-Past-and-Present-Immigration-to-the-American-Peo__47954
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47954-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Ross, Edward Alsworth
     gutenberg_agent_id: '44544'
     url: http://www.gutenberg.org/2009/agents/44544
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47954#The-Old-World-in-the-New-The-Significance-of-Past-and-Present-Immigration-to-the-American-Peo_
 gutenberg_issued: '2015-01-13'
 gutenberg_type: Text
 identifiers:
