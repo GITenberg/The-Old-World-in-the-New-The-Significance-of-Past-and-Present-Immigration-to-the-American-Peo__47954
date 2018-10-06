@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Old World in the New
 
   The Significance of Past and Present Immigration to the American People'
